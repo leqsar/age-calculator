@@ -56,7 +56,7 @@ Users should be able to:
 - Flexbox
 - [Vue](https://vuejs.org/) - Vue framework
 - [SASS](https://sass-lang.com/)
-- [SASS](https://greensock.com/gsap/)
+- [GSAP](https://greensock.com/gsap/)
 - [Vite](https://vitejs-dev.translate.goog/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=sc)
 
 ### What I learned
